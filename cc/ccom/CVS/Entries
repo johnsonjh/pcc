@@ -1,0 +1,21 @@
+/Makefile.in/1.61/Sun Jul  2 14:58:13 2023//
+/builtins.c/1.83/Sun Jul 23 08:55:09 2023//
+/ccom.1/1.33/Sat Dec 15 09:12:14 2018//
+/cgram.y/1.429/Sat Jul 29 09:34:43 2023//
+/complex.c/1.5/Wed Jul 26 06:46:44 2023//
+/dwarf.c/1.2/Tue Mar  8 18:17:45 2016//
+/dwarf.h/1.1/Sun Feb 21 11:11:55 2016//
+/gcc_compat.c/1.124/Sun Jul 23 08:55:09 2023//
+/init.c/1.114/Sat Jul 29 13:07:07 2023//
+/inline.c/1.68/Sun Jul 23 08:55:09 2023//
+/main.c/1.138/Fri Jul 14 14:52:45 2023//
+/optim.c/1.68/Sun Jul 23 08:55:09 2023//
+/params.c/1.6/Sun Jul 23 08:55:09 2023//
+/pass1.h/1.327/Sat Jul 29 09:34:43 2023//
+/pftn.c/1.449/Sat Jul 29 13:07:07 2023//
+/scan.l/1.165/Sat Jul 29 13:07:07 2023//
+/softfloat.c/1.4/Wed Jul 29 12:32:34 2009//
+/stabs.c/1.38/Sat Jul 29 09:34:43 2023//
+/symtabs.c/1.43/Sun Jul 23 08:55:09 2023//
+/trees.c/1.398/Sat Jul 29 09:34:44 2023//
+D
