@@ -1790,7 +1790,6 @@ static char *defflags[] = {
 	"-D__INT_MAX__=" MKS(MAX_INT),
 	"-D__LONG_MAX__=" MKS(MAX_LONG),
 	"-D__LONG_LONG_MAX__=" MKS(MAX_LONGLONG),
-
 	"-D__STDC_ISO_10646__=200009L",
 	"-D__WCHAR_TYPE__=" WCT,
 	"-D__SIZEOF_WCHAR_T__=" MKS(WCHAR_SIZE),
